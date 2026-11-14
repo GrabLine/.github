@@ -6,7 +6,7 @@
 
 Free, open-source downloads for Windows, macOS and Linux, with a browser companion.
 
-**[Download GrabLine](https://github.com/GrabLine/GrabLine/releases/latest) · [Website](https://grabline.github.io/GrabLine/) · [Documentation](https://github.com/GrabLine/GrabLine/blob/main/docs/README.md)**
+**[Download GrabLine](https://github.com/GrabLine/GrabLine/releases/latest) · [Website](https://grabline.github.io/) · [Documentation](https://github.com/GrabLine/GrabLine/blob/main/docs/README.md)**
 
 </div>
 
@@ -20,7 +20,7 @@ from your browser to the desktop app through Native Messaging.
 | --- | --- |
 | Desktop app | [GrabLine](https://github.com/GrabLine/GrabLine) — Windows, macOS and Linux |
 | Browser extension | [GrabLine Connect](https://github.com/GrabLine/GrabLine/tree/main/extension), maintained inside the desktop repository; [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/grabline-connect/) |
-| Website | [grabline.github.io/GrabLine](https://grabline.github.io/GrabLine/), currently maintained in the desktop repository |
+| Website | [grabline.github.io](https://grabline.github.io/), maintained in [its own repository](https://github.com/GrabLine/grabline.github.io) |
 | Android app | Coming soon. A separate repository will be created when there is code. |
 
 ## Principles
@@ -38,7 +38,8 @@ from your browser to the desktop app through Native Messaging.
 
 Start with the [documentation](https://github.com/GrabLine/GrabLine/blob/main/docs/README.md)
 or [troubleshooting guide](https://github.com/GrabLine/GrabLine/blob/main/docs/troubleshooting.md).
-For a reproducible bug or a question, use the
+Ask questions in [Discussions Q&A](https://github.com/GrabLine/GrabLine/discussions/categories/q-a).
+For a reproducible bug, use the
 [desktop repository's issues](https://github.com/GrabLine/GrabLine/issues).
 Include your version, platform, exact steps and sanitized evidence.
 

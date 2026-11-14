@@ -7,14 +7,14 @@
 - [Troubleshooting](https://github.com/GrabLine/GrabLine/blob/main/docs/troubleshooting.md)
 - [Browser companion](https://github.com/GrabLine/GrabLine/tree/main/extension)
 
-For a question, search existing issues in the affected repository first.
-Questions about the desktop app or GrabLine Connect currently belong in
-[GrabLine/GrabLine issues](https://github.com/GrabLine/GrabLine/issues).
+For a question, search existing discussions first, then use
+[GrabLine Discussions Q&A](https://github.com/GrabLine/GrabLine/discussions/categories/q-a).
 
 ## Report a bug
 
 Use the affected repository's bug form when one is available. Desktop and
 extension bugs use [GrabLine's issue forms](https://github.com/GrabLine/GrabLine/issues/new/choose).
+Website bugs also use those forms, with the `area:website` label.
 
 Include:
 
