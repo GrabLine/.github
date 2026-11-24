@@ -10,6 +10,8 @@ GrabLine Connect share the
 Open the affected repository on GitHub, select **Security**, then **Report a
 vulnerability** while signed in. For the desktop app or browser companion, use
 [GrabLine's private report form](https://github.com/GrabLine/GrabLine/security/advisories/new).
+For the Android app, use
+[GrabLine for Android's private report form](https://github.com/GrabLine/grabline-android/security/advisories/new).
 
 Include the affected version or commit, OS/browser where relevant, a minimal
 reproduction, the expected security boundary, impact and sanitized evidence.

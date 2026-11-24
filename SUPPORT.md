@@ -6,6 +6,8 @@
 - [Installation and updates](https://github.com/GrabLine/GrabLine/blob/main/docs/install.md)
 - [Troubleshooting](https://github.com/GrabLine/GrabLine/blob/main/docs/troubleshooting.md)
 - [Browser companion](https://github.com/GrabLine/GrabLine/tree/main/extension)
+- [Phones and PCs](https://github.com/GrabLine/GrabLine/blob/main/docs/devices.md): pairing GrabLine for Android and linking PCs
+- [GrabLine for Android](https://github.com/GrabLine/grabline-android)
 
 For a question, search existing discussions first, then use
 [GrabLine Discussions Q&A](https://github.com/GrabLine/GrabLine/discussions/categories/q-a).
@@ -14,11 +16,15 @@ For a question, search existing discussions first, then use
 
 Use the affected repository's bug form when one is available. Desktop and
 extension bugs use [GrabLine's issue forms](https://github.com/GrabLine/GrabLine/issues/new/choose).
-Website bugs also use those forms, with the `area:website` label.
+Website bugs also use those forms, with the `area:website` label. Android app
+bugs use [GrabLine for Android's issue forms](https://github.com/GrabLine/grabline-android/issues/new/choose).
+A problem with pairing or controlling a PC from the phone can go in either; say
+which app versions you use.
 
 Include:
 
-- App and extension versions, OS/architecture, and browser/version if relevant.
+- App, Android app and extension versions, OS/architecture or phone model, and
+  browser/version if relevant.
 - Whether you use an installed, portable or source build.
 - Exact reproduction steps, expected behaviour and the actual error.
 - A short public or synthetic sample when possible.
